@@ -14,7 +14,8 @@ public class Soma {
 
         soma = num1 + num2;
 
-        System.out.println("A soma é: " + soma);
+         System.out.print(num1 + " + " + num2 + " = " + soma);
+
 
         teclado.close();
     }
